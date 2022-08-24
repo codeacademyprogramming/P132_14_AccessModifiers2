@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj" />
+    <ProjectReference Include="..\Task1\Task1.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Homeworks">
+      <HintPath>..\..\..\13. 23-08-2022\23082022\Homeworks\bin\Debug\netcoreapp3.1\Homeworks.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

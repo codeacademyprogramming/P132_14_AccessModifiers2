@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "23d2fc48-50ac-4e85-a693-7667bbac1c1d": {
+      "ProjectGuid": "23d2fc48-50ac-4e85-a693-7667bbac1c1d",
+      "DisplayName": "StoreApp",
+      "ColorIndex": 0
+    },
+    "182ed13a-25e6-421d-acc3-1527d227e02f": {
+      "ProjectGuid": "182ed13a-25e6-421d-acc3-1527d227e02f",
+      "DisplayName": "StoreClasses",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ffd53f5f-a7bb-4b8f-b88e-4853ed8e7ca5": {
+      "ProjectGuid": "ffd53f5f-a7bb-4b8f-b88e-4853ed8e7ca5",
+      "DisplayName": "Task1",
+      "ColorIndex": 0
+    },
+    "f0cf541f-96e8-4e5d-907c-1339989d0d13": {
+      "ProjectGuid": "f0cf541f-96e8-4e5d-907c-1339989d0d13",
+      "DisplayName": "Lesson",
+      "ColorIndex": 1
+    },
+    "56600658-4d9e-49de-aeba-75d96e034482": {
+      "ProjectGuid": "56600658-4d9e-49de-aeba-75d96e034482",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
